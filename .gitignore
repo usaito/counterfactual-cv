@@ -135,6 +135,7 @@ logs/
 results/
 save_models.py
 .DS_Store
+note.md
 *.ipynb
 *.html
 *.npy
